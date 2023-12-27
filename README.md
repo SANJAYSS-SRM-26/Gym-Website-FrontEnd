@@ -13,6 +13,9 @@ HTML: Markup language for structuring the content of the web pages.
 CSS: Used for styling and enhancing the visual presentation.
 JavaScript: Implemented to add interactivity and dynamic functionality.
 
+# Preview:
+![Portfolio](https://github.com/SANJAYSS-SRM-26/Gym-Website-FrontEnd/blob/main/preview%20(2).png)
+
 # How to Use:
 Clone the repository using git clone https://github.com/your-username/gym-website-frontend.git.
 Open the index.html file in your preferred web browser to explore the website.
